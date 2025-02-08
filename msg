@@ -35,3 +35,5 @@ mspaint when? mspaint now 😱
 executors should add support for replicatesignal 😔
 solara also steals your malware
 result are that your executor has 0% skibidi unc 😔
+[ Event ]: [Be the first and only to catch it!]
+[ Event ]: [<i>10% Increased sparkling catch rate</i>]
